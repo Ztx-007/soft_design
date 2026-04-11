@@ -1,0 +1,4 @@
+interface:
+  display_name: "Ports Adapters Coach"
+  short_description: "Teach and refactor Python code to Ports & Adapters"
+  default_prompt: "Refactor mixed API and DB code into domain, ports, adapters with minimal behavior change."

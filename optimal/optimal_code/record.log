@@ -1,0 +1,4 @@
+2025-12-08 10:17:25 : [DEBUG] : root : debug message
+2025-12-08 10:20:31 | [DEBUG] | root | debug message
+debug message
+2025-12-08 10:39:41,369 DEBUG backend debug message
